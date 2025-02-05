@@ -1,1 +1,1 @@
-This ia all HTML with internal styling .
+This is all HTML with internal styling .
